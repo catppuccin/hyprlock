@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview1.webp"/>
 </p>
 
 ## Previews
