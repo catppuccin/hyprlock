@@ -40,12 +40,11 @@
 2. Download the file with your desired flavour e.g. `mocha.conf` (if you don't have it)
 3. Copy it into your hyprlock config e.g. `~/.config/hypr/`
 
-<!-- this section is optional
 ## 🙋 FAQ
 
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
- -->
+-	Q: **_"How to set user image?"_**\
+	A: You must save it as `~/.config/face` in png format
+
 ## 💝 Thanks to
 
 - [NikSne](https://github.com/NikSneMC)
