@@ -14,24 +14,30 @@
 <p align="center">
 	<img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview1.webp"/>
 </p>
+<details>
+  <summary>More</summary>
+  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview2.webp"/>
+  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview3.webp"/>
+  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview4.webp"/>
+</details>
 
 ## Previews
 
 <details>
-<summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/latte.webp"/>
+  <summary>🌻 Latte</summary>
+  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/latte.webp"/>
 </details>
 <details>
-<summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/frappe.webp"/>
+  <summary>🪴 Frappé</summary>
+  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/frappe.webp"/>
 </details>
 <details>
-<summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/macchiato.webp"/>
+  <summary>🌺 Macchiato</summary>
+  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/macchiato.webp"/>
 </details>
 <details>
-<summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/mocha.webp"/>
+  <summary>🌿 Mocha</summary>
+  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/mocha.webp"/>
 </details>
 
 ## Usage
