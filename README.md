@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/niksnemc/hyprlock/stargazers"><img src="https://img.shields.io/github/stars/niksnemc/hyprlock?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/niksnemc/hyprlock/issues"><img src="https://img.shields.io/github/issues/niksnemc/hyprlock?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/niksnemc/hyprlock/contributors"><img src="https://img.shields.io/github/contributors/niksnemc/hyprlock?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/hyprlock/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/hyprlock?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/hyprlock/issues"><img src="https://img.shields.io/github/issues/catppuccin/hyprlock?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/hyprlock/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/hyprlock?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
