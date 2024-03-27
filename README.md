@@ -12,44 +12,43 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview1.webp"/>
+	<img src="assets/preview.webp"/>
 </p>
-<details>
-  <summary>More</summary>
-  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview2.webp"/>
-  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview3.webp"/>
-  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/preview4.webp"/>
-</details>
 
 ## Previews
 
 <details>
   <summary>🌻 Latte</summary>
-  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/latte.webp"/>
+  <img src="assets/latte.webp"/>
 </details>
 <details>
   <summary>🪴 Frappé</summary>
-  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/frappe.webp"/>
+  <img src="assets/frappe.webp"/>
 </details>
 <details>
   <summary>🌺 Macchiato</summary>
-  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/macchiato.webp"/>
+  <img src="assets/macchiato.webp"/>
 </details>
 <details>
   <summary>🌿 Mocha</summary>
-  <img src="https://raw.githubusercontent.com/niksnemc/hyprlock/main/assets/mocha.webp"/>
+  <img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
 
 1. Download the file with theme (`hyprlock.conf`)
-2. Download the file with your desired flavour e.g. `mocha.conf` (if you don't have it)
-3. Copy it into your hyprlock config e.g. `~/.config/hypr/`
+2. Download the file with your desired flavour (e.g. `mocha.conf`) from [catpppuccin/hyprland](https://github.com/catppuccin/hyprland)
+3. Copy them into your hyprlock config (e.g. `~/.config/hypr/`)
+4. Change `source` to `/path/to/flavour.conf` (e.g. `~/.config/hypr/mocha.conf`)
+5. (optional) Change your accent color and font
 
 ## 🙋 FAQ
 
 -	Q: **_"How to set user image?"_**\
-	A: You must save it as `~/.config/face` in png format
+	A: You must save it as `~/face` in png format
+
+-	Q: **_"How to set background?"_**\
+	A: You must save it as `~/.config/background` in png format
 
 ## 💝 Thanks to
 
