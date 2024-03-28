@@ -45,7 +45,7 @@
 ## 🙋 FAQ
 
 -	Q: **_"How to set user image?"_**\
-	A: You must save it as `~/face` in png format
+	A: You must save it as `~/.face` in png format
 
 -	Q: **_"How to set background?"_**\
 	A: You must save it as `~/.config/background` in png format
