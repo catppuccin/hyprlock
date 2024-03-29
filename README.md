@@ -37,7 +37,7 @@
 ## Usage
 
 1. Download the file with theme (`hyprlock.conf`)
-2. Download the file with your desired flavour (e.g. `mocha.conf`) from [catpppuccin/hyprland](https://github.com/catppuccin/hyprland)
+2. Download the file with your desired flavour (e.g. `mocha.conf`) from [catppuccin/hyprland](https://github.com/catppuccin/hyprland)
 3. Copy them into your hyprlock config (e.g. `~/.config/hypr/`)
 4. Change `source` to `/path/to/flavour.conf` (e.g. `~/.config/hypr/mocha.conf`)
 5. (optional) Change your accent color and font
@@ -45,7 +45,7 @@
 ## 🙋 FAQ
 
 -	Q: **_"How to set user image?"_**\
-	A: You must save it as `~/face` in png format
+	A: You must save it as `~/.face` in png format
 
 -	Q: **_"How to set background?"_**\
 	A: You must save it as `~/.config/background` in png format
