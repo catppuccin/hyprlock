@@ -38,7 +38,7 @@
 
 1. Download the file with theme (`hyprlock.conf`)
 2. Download the file with your desired flavour (e.g. `mocha.conf`) from [catppuccin/hyprland](https://github.com/catppuccin/hyprland)
-3. Copy them into your hyprlock config (e.g. `~/.config/hypr/`)
+3. Copy them into your hyprland config directory (e.g. `~/.config/hypr/`)
 4. Change `source` to `/path/to/flavour.conf` (e.g. `~/.config/hypr/mocha.conf`)
 5. (optional) Change your accent color and font
 
