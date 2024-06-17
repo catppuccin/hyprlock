@@ -50,6 +50,9 @@
 -	Q: **_"How to set background?"_**\
 	A: You must save it as `~/.config/background` in png format
 
+- Q: **_"Where can I get background from demo?"_**\
+  A: You can find gray SVG and PNG [here](https://github.com/catppuccin/catppuccin/tree/main/assets/footers) or extract colored PNG from [Catppuccin for Vivaldi](https://github.com/catppuccin/vivaldi)
+
 ## 💝 Thanks to
 
 - [NikSne](https://github.com/NikSneMC)
