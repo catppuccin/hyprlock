@@ -44,11 +44,9 @@
 
 ## 🙋 FAQ
 
--	Q: **_"How to set user image?"_**\
-	A: You must save it as `~/.face` in png format
+-	Q: **_"How to set user image/background?"_**\
+	A: This is just an example config, so you may and should modify it to fit your needs.
 
--	Q: **_"How to set background?"_**\
-	A: You must save it as `~/.config/background` in png format
 
 - Q: **_"Where can I get backgrounds from the previews?"_**\
   A: You can find gray SVG and PNG [here](https://github.com/catppuccin/catppuccin/tree/main/assets/footers) or extract colored PNG from [Catppuccin for Vivaldi](https://github.com/catppuccin/vivaldi)
