@@ -45,7 +45,7 @@
 ## 🙋 FAQ
 
 -	Q: **_"How to set user image/background?"_**\
-	A: The [hyprlock.conf](https://github.com/catppuccin/hyprlock/blob/main/hyprlock.conf) file is just an example config, so you may and should modify it to fit your needs.
+	A: The [hyprlock.conf](./hyprlock.conf) file is just an example config, so you may and should modify it to fit your needs.
 
 
 - Q: **_"Where can I get backgrounds from the previews?"_**\
