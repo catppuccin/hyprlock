@@ -49,7 +49,7 @@
 
 
 - Q: **_"Where can I get backgrounds from the previews?"_**\
-  A: You can find gray SVG and PNG [here](https://github.com/catppuccin/catppuccin/tree/main/assets/footers) or extract colored PNG from [Catppuccin for Vivaldi](https://github.com/catppuccin/vivaldi)
+  A: You can find gray SVG and PNG [here](https://github.com/catppuccin/catppuccin/tree/main/assets/footers) or extract colored PNG from [Catppuccin for Vivaldi](https://github.com/catppuccin/vivaldi/releases/latest)
 
 ## 💝 Thanks to
 
